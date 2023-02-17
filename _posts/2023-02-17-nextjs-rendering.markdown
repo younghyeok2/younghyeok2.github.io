@@ -1,3 +1,8 @@
+---
+layout: post
+title: NextJs rendering
+---
+
 - [Rendering](#rendering)
 - [NextJs Rendering Method](#nextjs-rendering-method)
 - [Pre-Rendering vs Client-Side Rendering](#pre-rendering-vs-client-side-rendering)
